@@ -103,3 +103,6 @@ ENV/
 
 RUNS/
 
+data/
+*.DS_Store
+*._.DS_Store
